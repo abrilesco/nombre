@@ -1,0 +1,173 @@
+<html>
+<head><meta charset="UTF-8">
+<title>
+Examen Práctico
+</title>
+</head>
+<body>
+	<center>
+<table width="50%">
+	<tr>
+		
+		
+		<td width="10%"><div align="right">
+			<a href="https://facebook.com"><img src="facebook.png" width="50"></a>
+		</div>
+		</td>
+		<td width="1%">
+			<a href="https://instagram.com"><img src="instagram.png" width="100"></a>
+		</td>
+		<td width="10%">
+			<a href="https://whatsapp.com"><img src="whatsapp.png" width="60"></a>
+		</td>
+		<td width="10%">
+			
+		</td>
+		<td width="10%">
+			<div align="right"><font face="didot" size="6">Inicio
+			</font></div>
+		</td>
+	</tr>
+<tr>
+	<td colspan="5">
+		<table>
+			<tr>
+				<td><table >
+	<tr>
+		<td colspan="3"><font face="didot" size="6">
+			Título 1</font>
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#ADD781" width="60"><br><br></td>
+
+		<td bgcolor="#5F9E1C" width="60"></td>
+		<td bgcolor="#44770E" width="60"></td>
+	</tr>
+	<tr>
+		<td colspan="3"><font face="didot" size="4">
+			Subtítulo 1</font>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<center><div align="justify">
+			Kirby y la tierra olvidada, titulado en inglés como Kirby and the Forgotten Land, es un videojuego de plataformas en 3D de la saga Kirby, desarrollado por HAL Laboratory y publicado por Nintendo para la videoconsola Nintendo Switch<br>
+			Kirby y la tierra olvidada, titulado en inglés como Kirby and the Forgotten Land, es un videojuego de plataformas en 3D de la saga Kirby, desarrollado por HAL Laboratory y publicado por Nintendo para la videoconsola Nintendo Switch</div>
+		</center>
+		</td>
+	</tr>
+</table></td>
+<td><img src="Kirby6.jpg" width="400"></td>
+			</tr>
+		</table>
+		
+	</td>
+</tr>
+<tr>
+<td colspan="5">
+	<table >
+		<tr>
+			<td>
+				<table>
+					<tr>
+						<td colspan="5">
+							<br>
+						</td>
+					</tr>
+	<tr>
+		<td colspan="3"><font face="didot" size="6" >
+		<div align="right">Título 2 </div>	
+	</font>
+		</td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	</tr>
+	<tr>
+		<td colspan="3"><center><div align="justify">
+			Kirby y la tierra olvidada, titulado en inglés como Kirby and the Forgotten Land, es un videojuego de plataformas en 3D de la saga Kirby, desarrollado por HAL Laboratory y publicado por Nintendo para la videoconsola Nintendo Switch.</div></center>
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#ADD781">
+			<img src="kirby8.png" width="150">
+		</td>
+		<td bgcolor="#5F9E1C">
+			<img src="kirby2.png" width="150">
+		</td>
+		<td bgcolor="#44770E">
+			<img src="kirby1.png" width="150">
+		</td>
+	</tr>
+</table>
+			</td>
+
+			<td>
+			<table>
+	<tr>
+		<td colspan="2"><font face="didot" size="5">
+			<br><br>Subtítulo 2</font>
+		</td>
+	</tr>
+	<tr>
+		<td> <div align="justify">
+			Kirby y la tierra olvidada, titulado en inglés como Kirby and the Forgotten Land, es un videojuego de plataformas en 3D de la saga Kirby, desarrollado por HAL Laboratory y publicado por Nintendo para la videoconsola Nintendo Switch.</div>
+		</td>
+		<td><center>
+			<img src="kirby7.jpg" width="200"></center>
+		</td>
+	</tr>
+	<tr>
+		<td><center>
+			<img src="kirby4.jpg" width="100"></center>
+		</td>
+		<td><center>
+			<img src="kirby3.jpg" width="100"></center>
+		</td>
+	</tr>
+</table>	
+			</td>
+		</tr>
+	</table>
+
+</td>
+</tr>
+<tr>
+	<td colspan="5" >
+		<div align="center"><font face="didot" size="8">Título 3
+			</font></div>
+	</td>
+</tr>
+<tr>
+	<td colspan="3" rowspan="2"><center>
+					<img src="kirby10.gif" width="500">
+				</center>
+				</td>
+
+<tr>
+	<td colspan="2"><center>
+								<img src="harkness.png" width="300"></center><br>
+						
+								<center><font face="didot" size="5">
+									Abril Escobedo Aguilar<br>
+									10 de Mayo del 2022<br>
+									Ing. Azucena Cervantes<br>
+									Examen Práctico<br>
+									Paginas Web</font>
+								</center>
+							</td>
+
+
+
+				</td>
+			
+	
+</tr>
+
+</table>
+</center>
+
+
+
+
+
+</body>
+</html>
